@@ -1,0 +1,81 @@
+.body{
+background-color:whitesmoke;
+    
+}
+
+.text{
+    font-size:10px;
+}
+.text2{
+    font-style:bold;
+}
+.text3{
+  font-size: 20px;
+    font-family: sans-serif;
+    font-style: bold;
+}
+
+.ca{
+    background-color:#EAEAEA;
+}
+
+.btn1{
+    margin-left: 89%;
+    background-color:#F76D4D;
+    color: white;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius: 4px;
+}
+
+.btn3{
+    font-size: 1px;
+}
+
+.icon{
+    margin-top: 15px;
+}
+.cardstyle1{
+
+}
+
+.cardstyle2{
+    margin-top: 10px;
+}
+
+.tabla2{
+    margin-top: 10px;
+}
+.hr1{
+    color: #2DA2DA;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hr2{
+    color:#24AA34;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hr3{
+    color:#FF0000;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hr4{
+    color: #FF9000;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hr5{
+    color: #F76D4D;
+}
+
+.alertstyle{
+    font-size: 10px;
+
+    justify-content: center;
+}
